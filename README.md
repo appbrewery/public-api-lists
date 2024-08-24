@@ -280,7 +280,6 @@ For information on contributing to this project, please see the [contributing gu
 |   [US Street Address](https://smartystreets.com/docs/cloud/us-street-api)   | Validate and append data for any US postal address                    | `apiKey` |  Yes  |   Yes   |
 |                      [vatlayer](https://vatlayer.com)                       | VAT number validation                                                 |    No    |  Yes  | Unknown |
 |                      [Veriphone](https://veriphone.io)                      | Phone number validation & carrier lookup                              | `apiKey` |  Yes  |   Yes   |
-|                     [Scraper.run](https://scraper.run)                      | Email address validation                                              |    No    |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
 
@@ -650,7 +649,6 @@ For information on contributing to this project, please see the [contributing gu
 |                     [Adzuna](https://developer.adzuna.com/overview)                      | Job board aggregator                                                       | `apiKey` |  Yes  | Unknown |
 |                   [Careerjet](https://www.careerjet.com/partners/api/)                   | Job search engine                                                          | `apiKey` |  No   | Unknown |
 |                     [DevITjobs](https://devitjobs.us/api/jobsLight)                      | Jobs for software developers                                               |    No    |  Yes  | Unknown |
-|                         [GraphQL Jobs](https://api.graphql.jobs)                         | Jobs with GraphQL                                                          |    No    |  Yes  |   Yes   |
 |                        [Indeed](https://www.indeed.com/publisher)                        | Job board aggregator                                                       | `apiKey` |  Yes  | Unknown |
 |                 [Jobs2Careers](http://api.jobs2careers.com/api/spec.pdf)                 | Job aggregator                                                             | `apiKey` |  Yes  | Unknown |
 |                        [Jooble](https://us.jooble.org/api/about)                         | Job search engine                                                          | `apiKey` |  Yes  | Unknown |
